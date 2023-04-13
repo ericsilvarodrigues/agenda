@@ -6,7 +6,7 @@ Simples agenda de contatos para sistemas (Windows, Linux e MAC)
 # Autor
 Eric Silva Rodrigues
 
-## Instalação da versão demonstração 
+## Instalação
 Essas informações fornecerão uma cópia do projeto instalados e funcionando em sua máquina local.
 
 ## Pré requisitos:
