@@ -11,8 +11,8 @@ Essas informações fornecerão uma cópia do projeto instalados e funcionando e
 
 ## Pré requisitos:
 É necessário ter instalado no computador:
-*Java versão 17 ou superior
-*Banco de dados My SQL versão 8 
+* Java versão 17 ou superior
+* Banco de dados My SQL versão 8 
 ### Instalação:
-*Execute o banco de dados My SQL (localhost) como root sem nenhuma senha definida (senha em branco)
-*Crie um novo banco de dados de nome dbagenda
+* Execute o banco de dados My SQL (localhost) como root sem nenhuma senha definida (senha em branco)
+* Crie um novo banco de dados de nome dbagenda
