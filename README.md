@@ -6,6 +6,9 @@ Simples agenda de contatos para sistemas (Windows, Linux e MAC)
 # Autor
 Eric Silva Rodrigues
 
+# Projeto Curso Técnico Senac
+Projetinho de Banco de dados e Java completo
+
 ## Instalação
 Essas informações fornecerão uma cópia do projeto instalados e funcionando em sua máquina local.
 
